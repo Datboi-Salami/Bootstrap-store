@@ -1,0 +1,93 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(../assets/fonts/Regular.woff2);
+}
+
+#navbarDropdown {
+  font-family: myFirstFont;
+}
+
+.body {
+  font-family: myFirstFont;
+}
+
+.container {
+  direction: rtl;
+}
+
+
+.header-btn {
+  background-color: #fdd0d0 !important;
+  color: rgb(243, 31, 31) !important;
+  font-weight: 900 !important;
+  border-radius: 8px !important;
+}
+
+.header-btn:hover {
+  background-color: #d62626 !important;
+  color: white !important;
+}
+
+
+
+.button1 {
+  border: white;
+  background-color: rgb(255, 255, 255);
+  padding: 30px;
+}
+
+.play {
+  color: blue;
+}
+
+
+.g {
+  fill: #d62626;
+}
+
+
+.cc {
+  text-align: center;
+  font-size: 65px;
+  margin-top: 55px;
+  font-weight: 700;
+}
+
+.pp {
+  text-align: center;
+}
+
+
+
+#tabs:hover {
+  background-color: rgb(95, 124, 255) !important;
+  color: white !important;
+}
+
+
+.card-wrapper{
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 58px -27px #858585;
+}
+
+
+.tag{ 
+  font-weight: 900;
+  font-size: 0.7rem;
+  border-radius: 6px;
+  padding: 2px 6px;
+
+
+}
+.tag-success{ 
+background-color: #0cbc871A;
+color: #0cbc87;
+
+  }
+
+  .des{
+
+    color: #797979;
+    font-size: smaller;
+  }
